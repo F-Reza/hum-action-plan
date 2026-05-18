@@ -1,4 +1,11 @@
 # hum-action-plan
+
+https://next-safe.lovable.app/
+
+https://next-safe.base44.app/
+
+https://case-tracker-bd.preview.emergentagent.com/
+
 জাতীয় হাম প্রতিরোধ সিস্টেম National Measles Response · Bangladesh
 
 <img src="https://github.com/F-Reza/hum-action-plan/blob/main/snap/Screenshot_1.png" width="100%">
